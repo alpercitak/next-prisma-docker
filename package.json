@@ -2,6 +2,11 @@
   "name": "next-prisma-docker",
   "version": "0.1.0",
   "private": true,
+  "description": "Next.js + Prisma - Docker configuration",
+  "main": "index.js",
+  "repository": "https://github.com/alpercitak/next-prisma-docker.git",
+  "author": "Alper Çıtak <citak.alper@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
